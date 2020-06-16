@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My awesome website</title>
+    <link>/</link>
+    <description>Recent content on My awesome website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first post</title>
+      <link>/2020/06/16/my-first-post/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/06/16/my-first-post/</guid>
+      <description>  Dobar dan dobri ljudi…..
+x&amp;lt;-rnorm(100) plot(x) </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 23 May 2020 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>The European R users meeting (eRum) is a biennial conference that brings the R users community of Europe together to exchange experiences, broaden knowledge of R and collaborate. e-Rum2020 will take place in Milan (Italy) from June 17 to June 20.
+eRum is an open event, and it welcomes expert and skillful practitioners as well as people who just want to take a peek at the future of data science. e-Rum2020 aims to provide a platform for the creation of new collaborations and for sharing experiences.</description>
+    </item>
+    
+  </channel>
+</rss>
